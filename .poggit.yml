@@ -1,7 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SkyDNA/LobbyItems
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Zadezter/LobbyItems
 branches:
-- master
+- LobbyItems
 projects:
-  LobbySystem:
+  LobbyItems:
     path: LobbySystem/
 ...
